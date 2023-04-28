@@ -1,0 +1,7 @@
+
+.ipynb_checkpoints
+
+.snakemake
+
+slurm-*
+.Rproj.user
