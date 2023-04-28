@@ -1,6 +1,3 @@
-[submodule "verse"]
-	path = verse
-	url = git@gitlab.cmm.in.tum.de:brechtma/verse.git
 [submodule "snap"]
 	path = snap
 	url = https://github.com/snap-stanford/snap.git
